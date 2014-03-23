@@ -130,8 +130,8 @@ examples on how to get started, please see [the Wiki](https://github.com/marione
 
 **Object-Messaging Infrastructure**
 
-* [**Marionette.Commands**](docs/marionette.commands.md): An extension of Backbone.Wreqr.Commands, a simple command execution framework
-* [**Marionette.RequestResponse**](docs/marionette.requestresponse.md): An extension of Backbone.Wreqr.RequestResponse, a simple request/response framework
+* [**Marionette.Commands**](https://github.com/marionettejs/backbone.marionette/blob/master/docs/marionette.application.md#commands): An extension of Backbone.Wreqr.Commands, a simple command execution framework
+* [**Marionette.RequestResponse**](https://github.com/marionettejs/backbone.marionette/blob/master/docs/marionette.application.md#request-response): An extension of Backbone.Wreqr.RequestResponse, a simple request/response framework
 * [&rarr;] [**Backbone.Wreqr.EventAggregator**](https://github.com/marionettejs/backbone.wreqr): An event aggregator, to facilitate pub/sub and event architecture. Part of a suite of messaging based patterns
 * [&rarr;] [**Backbone.Wreqr.Commands**](https://github.com/marionettejs/backbone.wreqr): A simple command execution system
 * [&rarr;] [**Backbone.Wreqr.RequestResponse**](https://github.com/marionettejs/backbone.wreqr): A simple request/response system
